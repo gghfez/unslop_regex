@@ -1,0 +1,665 @@
+[
+  {
+    "id": "e99696a5-0a32-4187-be10-f140517cee00",
+    "scriptName": "Maybe",
+    "findRegex": "maybe, just maybe",
+    "replaceString": "{{random: maybe, perhaps, possibly}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "009caa07-d58f-447c-95a2-7a869b72fecd",
+    "scriptName": "Perhaps",
+    "findRegex": "perhaps, just perhaps",
+    "replaceString": "{{random: maybe, perhaps, possibly}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "d25d747b-79b9-4941-96ec-5506ca9492da",
+    "scriptName": "Whisper1",
+    "findRegex": "voice barely above a whisper",
+    "replaceString": "{{random: voice quiet, voice hushed, voice soft, voice lowered}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "ccd763e0-4b32-4cde-9cc6-e295784a8c13",
+    "scriptName": "Tears",
+    "findRegex": "unshed tears",
+    "replaceString": "tears",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "ef7f088d-8361-4486-b346-0092db8a5a9e",
+    "scriptName": "Testament",
+    "findRegex": "a testament to",
+    "replaceString": "{{random: a proof of, an evidence of, an indication of}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "2dcc9d83-dbe0-4fd3-bbad-0477a57a9e42",
+    "scriptName": "Mixture",
+    "findRegex": "/a (?:mix|mixture) of \\w+ and/gmi",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "00efb391-bb55-4241-81db-7882bd204309",
+    "scriptName": "Husky",
+    "findRegex": "husky",
+    "replaceString": "soft",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "99e4fb56-5485-4f05-95b4-4f1e473a3411",
+    "scriptName": "Dimly lit",
+    "findRegex": "dimly lit",
+    "replaceString": "{{random: shadowy, gloomy, dimly lit, softly lit}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "9aef486d-0e89-4071-abef-37514cc774a7",
+    "scriptName": "Shivers1",
+    "findRegex": "sends shivers down your spine",
+    "replaceString": "{{random: gives you goosebumps, unnerves you}}\n",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "2b2fbde9-aa76-4083-8179-566999fd81c3",
+    "scriptName": "Shivers2",
+    "findRegex": "sends shivers down her spine",
+    "replaceString": "excites her",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "510c2d8e-e23c-47e3-86cd-838ec8769e20",
+    "scriptName": "Shivers3",
+    "findRegex": "sends shivers down his spine",
+    "replaceString": "excites him",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "735bdda5-c432-465e-8dc0-ce5717739445",
+    "scriptName": "Bustling",
+    "findRegex": "bustling",
+    "replaceString": "{{random: crowded, hectic, lively, bustling}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "c2a1fbaf-51e2-4c11-8ebe-08b281743907",
+    "scriptName": "Tapestry",
+    "findRegex": "tapestry",
+    "replaceString": "{{random: mosaic, menagerie, patchwork, mishmash, amalgam}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "455a7969-c3e2-47ee-93fb-cc7bb16ebe66",
+    "scriptName": "Thick air",
+    "findRegex": "air was thick",
+    "replaceString": "{{random: air was heavy, air was filled, air was chock-full, air was thick}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "4a28377b-6fd1-4e2e-8f15-ba97ae7ee8f3",
+    "scriptName": "Damp earth",
+    "findRegex": "damp earth",
+    "replaceString": "{{random: humidity, rain, dew-kissed earth, wet soil}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "3fca2925-e65a-4b78-a150-32868bf89b70",
+    "scriptName": "Unreadable1",
+    "findRegex": "unreadable expression",
+    "replaceString": "{{random: guarded expression, impenetrable expression, veiled expression, cryptic expression, unreadable expression}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "f1237b0e-6f81-4534-aa3b-323d779e7859",
+    "scriptName": "Unreadable2",
+    "findRegex": "expression unreadable",
+    "replaceString": "{{random: expression guarded , expression impenetrable, expression veiled, expression cryptic, expression unreadable}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "409e7aa9-3c39-47ab-abc1-3cda1ff8beb9",
+    "scriptName": "Sparkling",
+    "findRegex": "sparkling with mischief",
+    "replaceString": "{{random: twinkling playfully, gleaming with amusement, dancing with wicked glee, sparkling with mischief}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "90773ce8-34d6-4093-aaee-b59d6202a6ae",
+    "scriptName": "Corners1",
+    "findRegex": "playing at the corners of her lips",
+    "replaceString": "{{random: playing gently, playing lightly, fleeting on her lips}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "68f6c7fe-2dab-4730-ba48-373d1cbcf6f8",
+    "scriptName": "Corners2",
+    "findRegex": "playing at the corners of his lips",
+    "replaceString": "{{random: playing gently, playing lightly, fleeting on his lips}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "54fc4a0e-c4f0-4a5b-bb3e-67598fd51a83",
+    "scriptName": "Air thick",
+    "findRegex": ", the air thick with unspoken words and shared purpose.",
+    "replaceString": ".",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "62a30120-8331-4a29-9ec6-2d451014a3da",
+    "scriptName": "Eyebrow raised",
+    "findRegex": "raises an eyebrow",
+    "replaceString": "{{random: looks surprised, pauses, raises an eyebrow}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "998da217-f2ef-40e8-a7fc-b198a758f2b9",
+    "scriptName": "Gleaming",
+    "findRegex": "eyes gleaming with curiosity",
+    "replaceString": "{{random: eyes gleaming with curiosity, eyes bright, eyes aglow with intrigue, eyes burning with curiosity, eyes full of questions}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "5259642a-d9b6-410f-a253-a1dfdf139542",
+    "scriptName": "Ready to face",
+    "findRegex": ", ready to face whatever challenges lie ahead.",
+    "replaceString": ".",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "503e9e1a-caaa-4484-a607-5f7eab25b85a",
+    "scriptName": "Hanging",
+    "findRegex": " hanging heavy in the air.",
+    "replaceString": ".",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "733c7358-6ba9-4910-895d-d3e2f91b5a23",
+    "scriptName": "Flutter1",
+    "findRegex": "fluttering closed",
+    "replaceString": "close",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "48accbc0-8e36-44d0-a9d0-d218acd8c82b",
+    "scriptName": "Flutter2",
+    "findRegex": "fluttering open",
+    "replaceString": "open",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "710fa41f-b07c-497e-96c0-fb5696facbec",
+    "scriptName": "Whisper2",
+    "findRegex": ", barely above a whisper.",
+    "replaceString": ".",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "06dd6cd4-f2b8-4794-b0be-28ab69ea50ec",
+    "scriptName": "Plea",
+    "findRegex": "silent plea",
+    "replaceString": "plea",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "05a489a4-8e85-45f2-a18b-fb47aa19f368",
+    "scriptName": "Reminder",
+    "findRegex": "/(.*\\ba silent reminder\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "20c6484d-7731-4c0e-8760-85e2ae8dfd7b",
+    "scriptName": "Weight1",
+    "findRegex": "/(.*\\bThe weight of their words\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "0e22ae15-aba9-4c17-a50c-1b155bdf6101",
+    "scriptName": "Weight2",
+    "findRegex": "/(.*\\bThe weight of her question\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "e774b0f9-5cd4-4e2b-aece-6993c275e287",
+    "scriptName": "Weight3",
+    "findRegex": "/(.*\\bThe weight of his question\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "e830c46f-a5e1-4b85-b5be-0ffddeca7985",
+    "scriptName": "Corners3",
+    "findRegex": "playing at the corners of her mouth",
+    "replaceString": "{{random: playing gently, playing lightly, fleeting on her lips}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "141a88cb-8f35-412e-affa-aef676b130c1",
+    "scriptName": "Corners4",
+    "findRegex": "playing at the corners of his mouth",
+    "replaceString": "{{random: playing gently, playing lightly, fleeting on his lips}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "d202bc49-8a67-404c-bae4-d0552d71579e",
+    "scriptName": "Delves into",
+    "findRegex": "delves into",
+    "replaceString": "{{random: thoroughly explores, examines, delivers a deep dive into, goes into detail about, comprehensively researchers, intensively studies, investigates, paints a picture of}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "ae96a669-7e51-4e08-a2e9-8284c8a3353d",
+    "scriptName": "Whisper3",
+    "findRegex": "voice barely a whisper",
+    "replaceString": "{{random: voice quiet, voice hushed, voice soft, voice lowered}}",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "248584e2-573b-4c2b-8dfd-7e39d1ff6373",
+    "scriptName": "Face it",
+    "findRegex": "/(.*\\byou'll face it together\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  },
+  {
+    "id": "e10631e5-7861-4452-9666-662142a50ce3",
+    "scriptName": "Ready to",
+    "findRegex": "/(.*\\bready to face whatever challenges\\b.*$)/gm",
+    "replaceString": " ",
+    "trimStrings": [],
+    "placement": [
+      2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": false,
+    "substituteRegex": false,
+    "minDepth": null,
+    "maxDepth": null
+  }
+]
